@@ -1,3 +1,3 @@
 class AssetApp {
-  static String ProfilePhoto = "assets/images/profile.jpg";
+  static String profilePhoto = "assets/images/profile.jpg";
 }

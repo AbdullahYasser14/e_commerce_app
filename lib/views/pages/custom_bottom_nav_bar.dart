@@ -30,7 +30,7 @@ class _CustomBottomNavBarState extends State<CustomBottomNavBar> {
         controller: _controller,
         tabs: [
           PersistentTabConfig(
-            screen: const HomePage(),
+            screen: HomePage(),
             item: ItemConfig(
               activeForegroundColor: Colors.blue,
               icon: const Icon(Icons.home),
